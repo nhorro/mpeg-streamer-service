@@ -1,5 +1,5 @@
 # mpeg-streamer-service
-Simple Flask-based application to stream JPEGs received from ZMQ to web client. 
+Simple Flask-based application to stream JPEGs received from ZMQ to web client based on the concept from the article Video Streaming with Flask(https://blog.miguelgrinberg.com/post/video-streaming-with-flask)
 
 Note: this is not intended for production.
 
